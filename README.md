@@ -2,7 +2,7 @@
 
 A modern e-commerce web application developed as part of my internship project.
 
-here is the website i ahve developed "" stellar-tech-market.vercel.app ""
+here is the website i have developed "" stellar-tech-market.vercel.app ""
 
 ## Features
 
